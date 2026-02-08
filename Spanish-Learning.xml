@@ -1,0 +1,372 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Spanish Learning</title>
+    <link>https://yourusername.github.io/your-repo-name/Spanish-Learning.xml</link>
+    <description>Private feed for Spanish Learning</description>
+    <atom:link href="https://yourusername.github.io/your-repo-name/Spanish-Learning.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sun, 08 Feb 2026 10:01:54 +0000</lastBuildDate>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 01.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2001.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 03.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2003.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 02.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2002.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 05.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2005.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 04.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2004.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 06.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2006.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 07.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2007.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 09.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2009.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 08.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2008.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 11.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2011.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 10.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2010.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 12.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2012.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 13.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2013.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 14.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2014.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 15.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2015.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 16.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2016.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 17.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2017.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 20.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2020.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 18.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2018.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 19.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2019.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 21.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2021.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 22.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2022.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 23.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2023.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 24.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2024.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 27.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2027.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 26.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2026.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 25.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2025.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 28.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2028.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 29.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2029.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 33.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2033.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 32.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2032.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 30.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2030.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 31.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2031.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 35.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2035.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 34.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2034.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 36.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2036.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 39.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2039.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 38.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2038.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 37.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2037.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 40.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2040.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 42.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2042.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 43.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2043.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 41.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2041.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 44.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2044.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 45.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2045.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 47.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2047.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 46.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2046.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 48.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2048.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 49.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2049.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 50.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2050.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 51.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2051.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 54.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2054.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 53.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2053.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 52.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2052.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 56.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2056.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 57.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2057.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 55.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2055.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 59.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2059.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 58.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2058.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 62.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2062.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 60.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2060.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 61.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2061.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 63.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2063.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 65.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2065.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 64.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2064.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 66.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2066.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 70.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2070.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 67.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2067.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 69.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2069.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 68.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2068.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 71.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2071.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 76.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2076.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 74.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2074.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 75.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2075.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 72.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2072.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 73.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2073.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 77.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2077.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 80.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2080.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 78.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2078.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 79.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2079.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 81.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2081.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 82.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2082.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 83.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2083.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 84.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2084.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 85.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2085.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 88.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2088.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 89.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2089.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 87.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2087.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 86.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2086.mp3" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Language Transfer - Complete Spanish - Lesson 90.mp3</title>
+      <enclosure url="https://yourusername.github.io/your-repo-name/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2090.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
