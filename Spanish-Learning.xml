@@ -7,545 +7,552 @@
     <atom:link href="https://andcov.github.io/podcaster-storage/Spanish-Learning.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 08 Feb 2026 10:37:16 +0000</lastBuildDate>
+    <image>
+      <url>https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/cover.jpg</url>
+      <title>Spanish Learning</title>
+      <link>https://andcov.github.io/podcaster-storage/Spanish-Learning.xml</link>
+    </image>
+    <lastBuildDate>Sun, 08 Feb 2026 10:50:26 +0000</lastBuildDate>
+    <itunes:image href="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/cover.jpg"/>
+    <itunes:type>serial</itunes:type>
     <item>
       <title>Lesson 90</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2090.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:34 +0000</pubDate>
+      <pubDate>Tue, 31 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>413</itunes:duration>
     </item>
     <item>
       <title>Lesson 89</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2089.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:34 +0000</pubDate>
+      <pubDate>Mon, 30 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>497</itunes:duration>
     </item>
     <item>
       <title>Lesson 88</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2088.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:34 +0000</pubDate>
+      <pubDate>Sun, 29 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>577</itunes:duration>
     </item>
     <item>
       <title>Lesson 87</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2087.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:34 +0000</pubDate>
+      <pubDate>Sat, 28 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>617</itunes:duration>
     </item>
     <item>
       <title>Lesson 86</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2086.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:34 +0000</pubDate>
+      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>538</itunes:duration>
     </item>
     <item>
       <title>Lesson 85</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2085.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:33 +0000</pubDate>
+      <pubDate>Thu, 26 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>291</itunes:duration>
     </item>
     <item>
       <title>Lesson 84</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2084.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:33 +0000</pubDate>
+      <pubDate>Wed, 25 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>472</itunes:duration>
     </item>
     <item>
       <title>Lesson 83</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2083.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:33 +0000</pubDate>
+      <pubDate>Tue, 24 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>491</itunes:duration>
     </item>
     <item>
       <title>Lesson 82</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2082.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:32 +0000</pubDate>
+      <pubDate>Mon, 23 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>404</itunes:duration>
     </item>
     <item>
       <title>Lesson 81</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2081.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:32 +0000</pubDate>
+      <pubDate>Sun, 22 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>716</itunes:duration>
     </item>
     <item>
       <title>Lesson 80</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2080.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:31 +0000</pubDate>
+      <pubDate>Sat, 21 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>429</itunes:duration>
     </item>
     <item>
       <title>Lesson 79</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2079.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:31 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>429</itunes:duration>
     </item>
     <item>
       <title>Lesson 78</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2078.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:31 +0000</pubDate>
+      <pubDate>Thu, 19 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>563</itunes:duration>
     </item>
     <item>
       <title>Lesson 77</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2077.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:31 +0000</pubDate>
+      <pubDate>Wed, 18 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>415</itunes:duration>
     </item>
     <item>
       <title>Lesson 76</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2076.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:30 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>490</itunes:duration>
     </item>
     <item>
       <title>Lesson 75</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2075.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:30 +0000</pubDate>
+      <pubDate>Mon, 16 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>560</itunes:duration>
     </item>
     <item>
       <title>Lesson 74</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2074.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:30 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>547</itunes:duration>
     </item>
     <item>
       <title>Lesson 73</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2073.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:30 +0000</pubDate>
+      <pubDate>Sat, 14 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>483</itunes:duration>
     </item>
     <item>
       <title>Lesson 72</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2072.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:30 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>780</itunes:duration>
     </item>
     <item>
       <title>Lesson 71</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2071.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:29 +0000</pubDate>
+      <pubDate>Thu, 12 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>760</itunes:duration>
     </item>
     <item>
       <title>Lesson 70</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2070.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:28 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>658</itunes:duration>
     </item>
     <item>
       <title>Lesson 69</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2069.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:28 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>569</itunes:duration>
     </item>
     <item>
       <title>Lesson 68</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2068.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:28 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>489</itunes:duration>
     </item>
     <item>
       <title>Lesson 67</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2067.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:28 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>703</itunes:duration>
     </item>
     <item>
       <title>Lesson 66</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2066.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:27 +0000</pubDate>
+      <pubDate>Sat, 07 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>297</itunes:duration>
     </item>
     <item>
       <title>Lesson 65</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2065.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:27 +0000</pubDate>
+      <pubDate>Fri, 06 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>906</itunes:duration>
     </item>
     <item>
       <title>Lesson 64</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2064.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:27 +0000</pubDate>
+      <pubDate>Thu, 05 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>804</itunes:duration>
     </item>
     <item>
       <title>Lesson 63</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2063.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:27 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>298</itunes:duration>
     </item>
     <item>
       <title>Lesson 62</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2062.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:26 +0000</pubDate>
+      <pubDate>Tue, 03 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>713</itunes:duration>
     </item>
     <item>
       <title>Lesson 61</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2061.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:26 +0000</pubDate>
+      <pubDate>Mon, 02 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>479</itunes:duration>
     </item>
     <item>
       <title>Lesson 60</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2060.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:26 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 12:00:00 +0000</pubDate>
       <itunes:duration>506</itunes:duration>
     </item>
     <item>
       <title>Lesson 59</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2059.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:25 +0000</pubDate>
+      <pubDate>Sat, 29 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>643</itunes:duration>
     </item>
     <item>
       <title>Lesson 58</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2058.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:25 +0000</pubDate>
+      <pubDate>Fri, 28 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>548</itunes:duration>
     </item>
     <item>
       <title>Lesson 57</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2057.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:24 +0000</pubDate>
+      <pubDate>Thu, 27 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>689</itunes:duration>
     </item>
     <item>
       <title>Lesson 56</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2056.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:24 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>824</itunes:duration>
     </item>
     <item>
       <title>Lesson 55</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2055.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:24 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>939</itunes:duration>
     </item>
     <item>
       <title>Lesson 54</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2054.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:23 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>582</itunes:duration>
     </item>
     <item>
       <title>Lesson 53</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2053.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:23 +0000</pubDate>
+      <pubDate>Sun, 23 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>498</itunes:duration>
     </item>
     <item>
       <title>Lesson 52</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2052.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:23 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>870</itunes:duration>
     </item>
     <item>
       <title>Lesson 51</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2051.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:22 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>739</itunes:duration>
     </item>
     <item>
       <title>Lesson 50</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2050.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:21 +0000</pubDate>
+      <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>563</itunes:duration>
     </item>
     <item>
       <title>Lesson 49</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2049.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:21 +0000</pubDate>
+      <pubDate>Wed, 19 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>649</itunes:duration>
     </item>
     <item>
       <title>Lesson 48</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2048.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:21 +0000</pubDate>
+      <pubDate>Tue, 18 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>660</itunes:duration>
     </item>
     <item>
       <title>Lesson 47</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2047.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:20 +0000</pubDate>
+      <pubDate>Mon, 17 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>575</itunes:duration>
     </item>
     <item>
       <title>Lesson 46</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2046.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:20 +0000</pubDate>
+      <pubDate>Sun, 16 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>650</itunes:duration>
     </item>
     <item>
       <title>Lesson 45</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2045.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:20 +0000</pubDate>
+      <pubDate>Sat, 15 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>771</itunes:duration>
     </item>
     <item>
       <title>Lesson 44</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2044.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:19 +0000</pubDate>
+      <pubDate>Fri, 14 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>607</itunes:duration>
     </item>
     <item>
       <title>Lesson 43</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2043.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:19 +0000</pubDate>
+      <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>545</itunes:duration>
     </item>
     <item>
       <title>Lesson 42</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2042.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:19 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>424</itunes:duration>
     </item>
     <item>
       <title>Lesson 41</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2041.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:19 +0000</pubDate>
+      <pubDate>Tue, 11 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>786</itunes:duration>
     </item>
     <item>
       <title>Lesson 40</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2040.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:18 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>759</itunes:duration>
     </item>
     <item>
       <title>Lesson 39</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2039.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:17 +0000</pubDate>
+      <pubDate>Sun, 09 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>635</itunes:duration>
     </item>
     <item>
       <title>Lesson 38</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2038.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:17 +0000</pubDate>
+      <pubDate>Sat, 08 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>564</itunes:duration>
     </item>
     <item>
       <title>Lesson 37</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2037.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:17 +0000</pubDate>
+      <pubDate>Fri, 07 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>799</itunes:duration>
     </item>
     <item>
       <title>Lesson 36</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2036.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:16 +0000</pubDate>
+      <pubDate>Thu, 06 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>662</itunes:duration>
     </item>
     <item>
       <title>Lesson 35</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2035.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:16 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>341</itunes:duration>
     </item>
     <item>
       <title>Lesson 34</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2034.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:16 +0000</pubDate>
+      <pubDate>Tue, 04 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>546</itunes:duration>
     </item>
     <item>
       <title>Lesson 33</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2033.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:15 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>523</itunes:duration>
     </item>
     <item>
       <title>Lesson 32</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2032.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:15 +0000</pubDate>
+      <pubDate>Sun, 02 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>580</itunes:duration>
     </item>
     <item>
       <title>Lesson 31</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2031.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:15 +0000</pubDate>
+      <pubDate>Sat, 01 Feb 2020 12:00:00 +0000</pubDate>
       <itunes:duration>420</itunes:duration>
     </item>
     <item>
       <title>Lesson 30</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2030.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:15 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>450</itunes:duration>
     </item>
     <item>
       <title>Lesson 29</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2029.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:15 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>527</itunes:duration>
     </item>
     <item>
       <title>Lesson 28</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2028.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:14 +0000</pubDate>
+      <pubDate>Wed, 29 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>682</itunes:duration>
     </item>
     <item>
       <title>Lesson 27</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2027.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:13 +0000</pubDate>
+      <pubDate>Tue, 28 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>645</itunes:duration>
     </item>
     <item>
       <title>Lesson 26</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2026.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:13 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>524</itunes:duration>
     </item>
     <item>
       <title>Lesson 25</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2025.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:13 +0000</pubDate>
+      <pubDate>Sun, 26 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>727</itunes:duration>
     </item>
     <item>
       <title>Lesson 24</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2024.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:12 +0000</pubDate>
+      <pubDate>Sat, 25 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>344</itunes:duration>
     </item>
     <item>
       <title>Lesson 23</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2023.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:12 +0000</pubDate>
+      <pubDate>Fri, 24 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>418</itunes:duration>
     </item>
     <item>
       <title>Lesson 22</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2022.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:12 +0000</pubDate>
+      <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>790</itunes:duration>
     </item>
     <item>
       <title>Lesson 21</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2021.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:12 +0000</pubDate>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>733</itunes:duration>
     </item>
     <item>
       <title>Lesson 20</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2020.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:11 +0000</pubDate>
+      <pubDate>Tue, 21 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>561</itunes:duration>
     </item>
     <item>
       <title>Lesson 19</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2019.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:11 +0000</pubDate>
+      <pubDate>Mon, 20 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>422</itunes:duration>
     </item>
     <item>
       <title>Lesson 18</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2018.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:11 +0000</pubDate>
+      <pubDate>Sun, 19 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>410</itunes:duration>
     </item>
     <item>
       <title>Lesson 17</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2017.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:11 +0000</pubDate>
+      <pubDate>Sat, 18 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>802</itunes:duration>
     </item>
     <item>
       <title>Lesson 16</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2016.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:10 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>458</itunes:duration>
     </item>
     <item>
       <title>Lesson 15</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2015.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:10 +0000</pubDate>
+      <pubDate>Thu, 16 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>540</itunes:duration>
     </item>
     <item>
       <title>Lesson 14</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2014.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:10 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>910</itunes:duration>
     </item>
     <item>
       <title>Lesson 13</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2013.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:09 +0000</pubDate>
+      <pubDate>Tue, 14 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>577</itunes:duration>
     </item>
     <item>
       <title>Lesson 12</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2012.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:09 +0000</pubDate>
+      <pubDate>Mon, 13 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>833</itunes:duration>
     </item>
     <item>
       <title>Lesson 11</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2011.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:08 +0000</pubDate>
+      <pubDate>Sun, 12 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>652</itunes:duration>
     </item>
     <item>
       <title>Lesson 10</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2010.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:08 +0000</pubDate>
+      <pubDate>Sat, 11 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>747</itunes:duration>
     </item>
     <item>
       <title>Lesson 9</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2009.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:07 +0000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>548</itunes:duration>
     </item>
     <item>
       <title>Lesson 8</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2008.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:07 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>453</itunes:duration>
     </item>
     <item>
       <title>Lesson 7</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2007.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:07 +0000</pubDate>
+      <pubDate>Wed, 08 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>615</itunes:duration>
     </item>
     <item>
       <title>Lesson 6</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2006.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:07 +0000</pubDate>
+      <pubDate>Tue, 07 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>424</itunes:duration>
     </item>
     <item>
       <title>Lesson 5</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2005.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:06 +0000</pubDate>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>564</itunes:duration>
     </item>
     <item>
       <title>Lesson 4</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2004.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:06 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>508</itunes:duration>
     </item>
     <item>
       <title>Lesson 3</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2003.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:06 +0000</pubDate>
+      <pubDate>Sat, 04 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>374</itunes:duration>
     </item>
     <item>
       <title>Lesson 2</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2002.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:06 +0000</pubDate>
+      <pubDate>Fri, 03 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>478</itunes:duration>
     </item>
     <item>
       <title>Lesson 1</title>
       <enclosure url="https://andcov.github.io/podcaster-storage/audio/Spanish-Learning/Language%20Transfer%20-%20Complete%20Spanish%20-%20Lesson%2001.mp3" length="0" type="audio/mpeg"/>
-      <pubDate>Thu, 16 Jul 2020 02:44:05 +0000</pubDate>
+      <pubDate>Thu, 02 Jan 2020 12:00:00 +0000</pubDate>
       <itunes:duration>334</itunes:duration>
     </item>
   </channel>
