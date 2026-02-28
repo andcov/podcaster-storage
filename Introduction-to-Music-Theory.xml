@@ -7,7 +7,13 @@
     <atom:link href="https://andcov.github.io/podcaster-storage/Introduction-to-Music-Theory.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 28 Feb 2026 16:55:05 +0000</lastBuildDate>
+    <image>
+      <url>https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/cover.jpg</url>
+      <title>Introduction To Music Theory</title>
+      <link>https://andcov.github.io/podcaster-storage/Introduction-to-Music-Theory.xml</link>
+    </image>
+    <lastBuildDate>Sat, 28 Feb 2026 16:57:37 +0000</lastBuildDate>
+    <itunes:image href="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/cover.jpg"/>
     <itunes:type>episodic</itunes:type>
     <item>
       <title>Music Theory 1</title>
