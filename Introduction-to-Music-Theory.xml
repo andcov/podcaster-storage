@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Introduction To Music Theory</title>
+    <link>https://andcov.github.io/podcaster-storage/Introduction-to-Music-Theory.xml</link>
+    <description>Sync for Introduction To Music Theory</description>
+    <atom:link href="https://andcov.github.io/podcaster-storage/Introduction-to-Music-Theory.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <lastBuildDate>Sat, 28 Feb 2026 16:55:05 +0000</lastBuildDate>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Music Theory 1</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%201.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:02 +0000</pubDate>
+      <itunes:duration>726</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 2</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%202.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:04 +0000</pubDate>
+      <itunes:duration>1041</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 3</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%203.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:11 +0000</pubDate>
+      <itunes:duration>989</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 4</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%204.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:15 +0000</pubDate>
+      <itunes:duration>1321</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 5</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%205.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:24 +0000</pubDate>
+      <itunes:duration>560</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 6</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%206.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:33 +0000</pubDate>
+      <itunes:duration>1175</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 7</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%207.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:50:39 +0000</pubDate>
+      <itunes:duration>1234</itunes:duration>
+    </item>
+    <item>
+      <title>10</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%2010.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:51:09 +0000</pubDate>
+      <itunes:duration>694</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 8</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%208.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:52:10 +0000</pubDate>
+      <itunes:duration>999</itunes:duration>
+    </item>
+    <item>
+      <title>Music Theory 9</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/Introduction-to-Music-Theory/Music%20Theory%209.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 17:52:57 +0000</pubDate>
+      <itunes:duration>1036</itunes:duration>
+    </item>
+  </channel>
+</rss>
