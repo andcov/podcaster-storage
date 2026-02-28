@@ -47,7 +47,8 @@ def create_feed(folder_name, files):
 
     # --- CHOOSE SORTING LOGIC ---
     # We use "Serial" for Language Transfer or anything with 'Course' in the name
-    is_serial = "Spanish" in folder_name or "Course" in folder_name
+    keywords = ["Spanish", "Course", "Music"]
+    is_serial = any([keyword in folder_name for keyword in keywords])
     
     if is_serial:
         fg.podcast.itunes_type('serial')
@@ -82,7 +83,7 @@ def create_feed(folder_name, files):
         fe.enclosure(file_url, 0, 'audio/mpeg')
     
     fg.rss_file(f"{folder_name}.xml", pretty=True)
-    print(f"✅ Generated: {folder_name}.xml ({'Serial' if is_serial else 'Episodic'})")
+    print(f"✅ Generated: {folder_name}.xml ({'Serial' if is_serial else 'Episodic'}) - {BASE_URL}/{folder_name}.xml")
 
 def main():
     for entry in os.scandir(AUDIO_ROOT):
