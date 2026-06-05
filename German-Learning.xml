@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>German Learning</title>
+    <link>https://andcov.github.io/podcaster-storage/German-Learning.xml</link>
+    <description>Sync for German Learning</description>
+    <atom:link href="https://andcov.github.io/podcaster-storage/German-Learning.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://andcov.github.io/podcaster-storage/audio/German-Learning/cover.jpg</url>
+      <title>German Learning</title>
+      <link>https://andcov.github.io/podcaster-storage/German-Learning.xml</link>
+    </image>
+    <lastBuildDate>Fri, 05 Jun 2026 19:24:46 +0000</lastBuildDate>
+    <itunes:image href="https://andcov.github.io/podcaster-storage/audio/German-Learning/cover.jpg"/>
+    <itunes:type>serial</itunes:type>
+    <item>
+      <title>Complete German, Track 50 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2050%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 20 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>1112</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 49 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2049%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 19 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>463</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 48 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2048%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 18 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>522</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 47 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2047%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 17 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>701</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 46 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2046%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>567</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 45 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2045%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 15 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>639</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 44 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2044%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>475</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 43 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2043%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>462</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 42 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2042%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 12 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>478</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 41 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2041%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>538</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 40 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2040%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>474</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 39 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2039%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>809</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 38 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2038%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>578</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 37 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2037%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 07 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>366</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 36 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2036%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>554</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 35 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2035%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>474</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 34 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2034%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>311</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 33 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2033%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>351</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 32 - Language Transfer, The Thinking Methodd</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2032%20-%20Language%20Transfer,%20The%20Thinking%20Methodd.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>481</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 31 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2031%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>540</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 30 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2030%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>535</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 29 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2029%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>379</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 28 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2028%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>380</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 27 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2027%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>360</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 26 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2026%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>457</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 25 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2025%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>595</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 24 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2024%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>470</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 23 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2023%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>495</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 22 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2022%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>288</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 21 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2021%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>370</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 20 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2020%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>426</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 19 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2019%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>412</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 18 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2018%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>462</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 17 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2017%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>518</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 16 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2016%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>376</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 15 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2015%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>583</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 14 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2014%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>492</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 13 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2013%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>488</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 12 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2012%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>424</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 11 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2011%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>420</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 10 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2010%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>344</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 09 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2009%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>585</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 08 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2008%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>357</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 07 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2007%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>466</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 06 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2006%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>466</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 05 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2005%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>372</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 04 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2004%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>356</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 03 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2003%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>437</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 02 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2002%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>320</itunes:duration>
+    </item>
+    <item>
+      <title>Complete German, Track 01 - Language Transfer, The Thinking Method</title>
+      <enclosure url="https://andcov.github.io/podcaster-storage/audio/German-Learning/Complete%20German,%20Track%2001%20-%20Language%20Transfer,%20The%20Thinking%20Method.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>445</itunes:duration>
+    </item>
+  </channel>
+</rss>
